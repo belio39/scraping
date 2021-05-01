@@ -1,0 +1,26 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "scrape the data on this website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belio39/scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belio39/scraping/issues"
+  },
+  "homepage": "https://github.com/belio39/scraping#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.7"
+  }
+}
